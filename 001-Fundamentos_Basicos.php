@@ -9,7 +9,9 @@
 <body>
 
     <?php
-        echo "Olá Mundo!";
+        // Esse é meu primeiro arquivo PHP
+        echo "Meu nome é Roodney Moraes. <br>";
+        print "Minha idade é 23.";
     ?>
 
 </body>
